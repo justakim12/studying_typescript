@@ -102,7 +102,7 @@ class Person {
 const brad = new Person(1, 'Brad Traversy')
 const mike = new Person(1, 'Mike Kim')
 
-console.log(brad, mike)
+console.log(brad)
 
 console.log(brad.register())
 
